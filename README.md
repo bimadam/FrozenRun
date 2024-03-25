@@ -33,4 +33,4 @@ Objekty jako žebřík, hroty,.. byly použity v již vytvořených Roblox asset
 
 ![Engine Screenshot](https://github.com/bimadam/FrozenRun/blob/main/engine.png?raw=true)
 ![Ending Screen](https://github.com/bimadam/FrozenRun/blob/main/ending.png?raw=true)
-
+!During Game Screen](https://github.com/bimadam/FrozenRun/blob/main/during.png?raw=true)
