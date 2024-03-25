@@ -26,4 +26,4 @@ Hráčova postava běží sama, je potřeba jen mezerník pro skok.
 Úkolem je mít co největší skóre... Hra nemá konec...
 
 ### Hudba
-Hra má hudbu v pozadí, která je vytvořena pomocí [Suno.ai]((https://app.suno.ai/)https://app.suno.ai/)
+Hra má hudbu v pozadí, která je vytvořena pomocí [Suno.ai](https://app.suno.ai/)
