@@ -15,4 +15,6 @@ Překážky jsou např. ledové hroty, miny, padací mosty,...
 
 Na některých částech mapy jsou i coiny _(nemají extra funkci, jen je lepší zážitek je sbírat)_.
 
+![Coin](https://github.com/bimadam/FrozenRun/blob/main/coin.png?raw=true)
+
 #### Průběh hry
