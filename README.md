@@ -10,7 +10,7 @@ Na herní mapě je poskládáno několik částí mapy, které se díky skriptu 
 a tím vytvářejí možnost nekonečného běhu.
 Každá část mapy má pár překážek, které je potřeba přeskočit.
 Překážky jsou např. ledové hroty, miny, padací mosty,...
-![Map Parts]([https://imgur.com/a/zbIPjbn](https://github.com/bimadam/FrozenRun/blob/main/trackParts.png))
+![Map Parts](ttps://github.com/bimadam/FrozenRun/blob/main/trackParts.png)
 Na některých částech mapy jsou i coiny _(nemají extra funkci, jen je lepší zážitek je sbírat)_.
 
 #### Průběh hry
