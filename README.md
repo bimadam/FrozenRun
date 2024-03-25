@@ -25,6 +25,8 @@ Hráčova postava běží sama, je potřeba jen mezerník pro skok.
 
 Úkolem je mít co největší skóre... Hra nemá konec...
 
-### Hudba
+### Obsah
 Hra má hudbu v pozadí, která je vytvořena pomocí [Suno.ai](https://app.suno.ai/).
 Jako zvuk ke coinům je použit Cheese od Jamese Maye.
+
+Objekty jako žebřík, hroty,.. byly použity v již vytvořených Roblox assetech, nebo byly vytvořeny přímo v enginu.
