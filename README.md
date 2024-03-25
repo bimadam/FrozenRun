@@ -18,3 +18,7 @@ Na některých částech mapy jsou i coiny _(nemají extra funkci, jen je lepš�
 ![Coin](https://github.com/bimadam/FrozenRun/blob/main/coin.png?raw=true)
 
 #### Průběh hry
+Hráč se spawne na trati a je vyzván ke stisku mezerníku ke spuštění hry. Kamera je fixnutá z boku.
+Hráčova postava běží sama, je potřeba jen mezerník pro skok.
+
+![Coin](https://github.com/bimadam/FrozenRun/blob/main/startScreen.png?raw=true)
