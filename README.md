@@ -24,3 +24,6 @@ Hráčova postava běží sama, je potřeba jen mezerník pro skok.
 ![Coin](https://github.com/bimadam/FrozenRun/blob/main/startScreen.png?raw=true)
 
 Úkolem je mít co největší skóre... Hra nemá konec...
+
+### Hudba
+Hra má hudbu v pozadí, která je vytvořena pomocí [Suno.ai]((https://app.suno.ai/)https://app.suno.ai/)
