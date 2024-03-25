@@ -30,3 +30,5 @@ Hra má hudbu v pozadí, která je vytvořena pomocí [Suno.ai](https://app.suno
 Jako zvuk ke coinům je použit Cheese od Jamese Maye.
 
 Objekty jako žebřík, hroty,.. byly použity v již vytvořených Roblox assetech, nebo byly vytvořeny přímo v enginu.
+
+![Engine Screenshot](https://github.com/bimadam/FrozenRun/blob/main/engine.png?raw=true)
