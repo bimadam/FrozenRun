@@ -1,6 +1,7 @@
 # Frozen Run
 ##### Adam Bím, Vítězslav Virt
 #### Link na video: [Video](https://www.youtube.com/watch?v=xcSzhOWIgNc)
+#### Link na trailer: [Trailer](https://www.youtube.com/watch?v=W0edhp0AaDM)
 &nbsp;
 ### Základní informace
 Jedná se o line runner hru, vytvořenou v Roblox Studiu.
