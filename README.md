@@ -13,7 +13,7 @@ a tím vytvářejí možnost nekonečného běhu.
 Každá část mapy má pár překážek, které je potřeba přeskočit.
 Překážky jsou např. ledové hroty, miny, padací mosty,...
 
-![Map Parts](https://github.com/bimadam/FrozenRun/blob/main/trackParts.png?raw=true)
+![Map Parts](https://github.com/bimadam/FrozenRun/blob/main/ReadmePics/trackParts.png?raw=true)
 
 Na některých částech mapy jsou i coiny _(nemají extra funkci, jen je lepší zážitek je sbírat)_.
 
